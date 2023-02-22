@@ -10,11 +10,11 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'AzureLoadTestDemo'
+  webAppName: 'azure-load-test-demo'
   serviceConnection: 'AzureLoadTestDemoConnectionName'
   azureSubscriptionId: '07fb1944-116c-4847-badd-798de233dc90'
-  loadTestResource: 'LoadTestResource'
-  loadTestResourceGroup: 'LoadTestResourceGroup'
+  loadTestResource: 'loadTestResource'
+  loadTestResourceGroup: 'loadTestResourceGroup'
   location: 'EAST US'
 
 
