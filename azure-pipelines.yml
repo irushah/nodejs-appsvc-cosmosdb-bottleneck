@@ -15,7 +15,7 @@ variables:
   azureSubscriptionId: '07fb1944-116c-4847-badd-798de233dc90'
   loadTestResource: 'loadTestResource'
   loadTestResourceGroup: 'loadTestResourceGroup'
-  location: 'South Central US'
+  location: 'Global'
 
 
 stages:
